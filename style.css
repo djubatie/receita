@@ -12,7 +12,7 @@ img{
 h1{
     color: rgb(143, 112, 28);
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:
 }
 
 h2{
@@ -22,3 +22,10 @@ h2{
 h3{
     color:rgb(143, 112, 28) ;
 }
+
+.libertinus-keyboard-regular {
+  font-family: "Libertinus Keyboard", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
