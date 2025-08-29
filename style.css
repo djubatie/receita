@@ -2,7 +2,10 @@ body{
     background-color: antiquewhite;
 }
 
-.image.png{
-    width: 10%;
-    height: auto;
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
 }
+
