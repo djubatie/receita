@@ -17,15 +17,10 @@ h1{
 
 h2{
     color:rgb(143, 112, 28);
+    font-family: "Libertinus Keyboard", system-ui;
 }
 
 h3{
     color:rgb(143, 112, 28) ;
+    font-family: "Libertinus Keyboard", system-ui;
 }
-
-.libertinus-keyboard-regular {
-  font-family: "Libertinus Keyboard", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-
