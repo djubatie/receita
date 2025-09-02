@@ -22,3 +22,10 @@ h2{
 h3{
     color:rgb(143, 112, 28) ;
 }
+
+iframe{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    object-fit: cover;
+}
